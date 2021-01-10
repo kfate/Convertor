@@ -1,0 +1,5 @@
+com/example/converterapp/BuildConfig.java
+ com.example.converterapp.BuildConfig
+com/example/converterapp/MainActivity.java
+ com.example.converterapp.MainActivity
+ com.example.converterapp.MainActivity$1
